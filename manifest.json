@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "My Chess Engine",
+  "version": "1.0",
+  "description": "A chess analysis extension with AI coaching.",
+
+  "permissions": [
+    "tabs"
+  ],
+
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
